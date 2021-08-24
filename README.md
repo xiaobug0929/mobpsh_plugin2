@@ -1,5 +1,7 @@
 # MobPush For Flutter
 
+# 注意,该仓库是基于MobPush官方插件进行的优化,支持了Dart空安全和修复了几个bug
+
 这是一个基于  MobPush 功能的扩展的 Flutter 插件。使用此插件能够帮助您在使用 Flutter 开发应用时，快速地实现推送功能。
 
 插件主页：https://pub.dartlang.org/packages/mobpush_plugin
